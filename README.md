@@ -6,4 +6,4 @@ dop dop dip dip
 
 # Skibidi
 
-dipidi dop
+ddipidi dop
